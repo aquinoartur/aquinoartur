@@ -12,7 +12,7 @@
 
  📧 artur-aquino1@hotmail.com |
  📚 [Currículo Lattes](http://lattes.cnpq.br/2765286091172510) |
- 💻 [Linkedin](http://lattes.cnpq.br/2765286091172510) 
+ 💻 [LinkedIn](http://lattes.cnpq.br/2765286091172510) 
  
 ### Sobre mim
 
@@ -41,10 +41,11 @@ soluciona problemas que estão
 ao meu redor.
 ***
 #### Educação
-
-Bacharel em Ciência e Tecnologia (UFERSA). Graduando Engenharia de Computação (UFERSA), com ênfase em Automação Industrial. Mestre em Ensino, na linha de Ciências Exatas e Naturais (UERN). Pesquisador e desenvolvedor de aplicativos móveis.  
-
-
+* Bacharel em Ciência e Tecnologia (UFERSA).
+* Graduando Engenharia de Computação (UFERSA), com ênfase em Automação Industrial.
+* Mestre em Ensino, na linha de Ciências Exatas e Naturais (UERN).
+* Pesquisador e desenvolvedor de aplicativos móveis.  
+***
 #### Soft Skills
 * Pró-atividade, organização e foco no resultado.
 * Pensamento analítico.
@@ -73,3 +74,26 @@ aplicativo foi desenvolvido com sucesso e publicado na Google Play
 Store. O framework utilizado foi o Flutter e, através dessa
 experiência, decidi continuar meus estudos em desenvolvimento
 mobile.* [*Acessar Aplicativo.*](https://github.com/aquinoartur/prisma_study)
+***
+### Outras informações 
+#### Ferramentas ⚙️
+* Android Studio
+* Git Desktop
+* Figma
+* Visual Studio Code
+
+#### Idiomas
+* Português (*nativo*).
+* Inglês (*intermediário*).
+* Espanhol (*básico*).
+
+#### Estou estudando / Pretendo estudar em breve:
+- [x] Clean Architecture.
+- [x] Testes Unitários.
+- [ ] TDD.
+- [x] Mobx
+- [ ] Modular.
+- [ ] Hasura.
+- [ ] GraphQl.
+- [ ] Injeção de dependências.
+
