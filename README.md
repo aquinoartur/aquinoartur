@@ -39,13 +39,16 @@ por gostar de pesquisa,
 sobretudo quando esta
 soluciona problemas que estão
 ao meu redor.
+
 ***
+
 #### Educação
 * Bacharel em Ciência e Tecnologia (UFERSA).
 * Graduando Engenharia de Computação (UFERSA), com ênfase em Automação Industrial.
 * Mestre em Ensino, na linha de Ciências Exatas e Naturais (UERN).
 * Pesquisador e desenvolvedor de aplicativos móveis.  
-***
+
+
 #### Soft Skills
 * Pró-atividade, organização e foco no resultado.
 * Pensamento analítico.
@@ -60,7 +63,6 @@ ao meu redor.
 * Gerência de estado (Provider, Bloc/Rx, setState).
 * Firebase.
 * Consumo/integração de APIs.
-***
 #### Experiências profissionais
 
 **Pesquisador bolsista CAPES | Universidade do Estado do Rio Grande do Norte, 2020 - 2021.**
@@ -74,26 +76,19 @@ aplicativo foi desenvolvido com sucesso e publicado na Google Play
 Store. O framework utilizado foi o Flutter e, através dessa
 experiência, decidi continuar meus estudos em desenvolvimento
 mobile.* [*Acessar Aplicativo.*](https://github.com/aquinoartur/prisma_study)
+
 ***
 ### Outras informações 
-#### Ferramentas ⚙️
-* Android Studio.
-* Git Desktop.
-* Figma.
-* Visual Studio Code.
 
 #### Idiomas
+
 * Português (*nativo*).
 * Inglês (*intermediário*).
 * Espanhol (*básico*).
 
-#### Estou estudando / Pretendo estudar em breve:
+#### Atualmente estou estudando:
+
 - [x] Clean Architecture.
 - [x] Testes Unitários.
-- [ ] TDD.
 - [x] Mobx
-- [ ] Modular.
-- [ ] Hasura.
-- [ ] GraphQl.
-- [ ] Injeção de dependências.
 
