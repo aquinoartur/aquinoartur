@@ -14,6 +14,11 @@
  📚 [Currículo Lattes](http://lattes.cnpq.br/2765286091172510) |
  💻 [LinkedIn](http://lattes.cnpq.br/2765286091172510) 
  
+ #### Educação
+* Bacharel em Ciência e Tecnologia (UFERSA).
+* Graduando Engenharia de Computação (UFERSA), com ênfase em Automação Industrial.
+* Mestre em Ensino, na linha de Ciências Exatas e Naturais (UERN).
+* Pesquisador e desenvolvedor de aplicativos móveis. 
 ### Sobre mim
 
 Olá, meu nome é Artur, tenho
