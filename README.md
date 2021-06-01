@@ -78,13 +78,6 @@ experiência, decidi continuar meus estudos em desenvolvimento
 mobile.* [*Acessar Aplicativo.*](https://github.com/aquinoartur/prisma_study)
 
 ***
-### Outras informações 
-
-#### Idiomas
-
-* Português (*nativo*).
-* Inglês (*intermediário*).
-* Espanhol (*básico*).
 
 #### Atualmente estou estudando:
 
