@@ -77,10 +77,10 @@ mobile.* [*Acessar Aplicativo.*](https://github.com/aquinoartur/prisma_study)
 ***
 ### Outras informações 
 #### Ferramentas ⚙️
-* Android Studio
-* Git Desktop
-* Figma
-* Visual Studio Code
+* Android Studio.
+* Git Desktop.
+* Figma.
+* Visual Studio Code.
 
 #### Idiomas
 * Português (*nativo*).
