@@ -49,15 +49,7 @@ ao meu redor.
 * Pesquisador e desenvolvedor de aplicativos móveis.  
 
 
-#### Soft Skills
-* Pró-atividade, organização e foco no resultado.
-* Pensamento analítico.
-* Excelente comunicação interpessoal.
-* Perfil de pesquisador.
-* Escrita criativa.
-* Flexibilidade em aprender novas tecnologias.
-
-#### Hard Skills
+#### Skills
 * Dart/Flutter.
 * Controle e versionamento GIT.
 * Gerência de estado (Provider, Bloc/Rx, setState).
