@@ -75,5 +75,5 @@ mobile.* [*Acessar Aplicativo.*](https://github.com/aquinoartur/prisma_study)
 
 - [x] Clean Architecture.
 - [x] Testes Unitários.
-- [x] Mobx
+- [x] Mobx.
 
