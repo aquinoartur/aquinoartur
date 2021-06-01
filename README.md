@@ -8,7 +8,7 @@
  ![GitHub language count](https://img.shields.io/github/languages/count/aquinoartur/prisma_study)
  ![GitHub top language](https://img.shields.io/github/languages/top/aquinoartur/prisma_study)
  
- ### Redes sociais
+ ### Contatos
 
  📧 artur-aquino1@hotmail.com |
  📚 [Currículo Lattes](http://lattes.cnpq.br/2765286091172510) |
