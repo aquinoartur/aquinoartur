@@ -42,19 +42,32 @@ ao meu redor.
 
 ***
 
-#### Educação
+#### Educação :man_student:
 * Bacharel em Ciência e Tecnologia (UFERSA).
 * Graduando Engenharia de Computação (UFERSA), com ênfase em Automação Industrial.
 * Mestre em Ensino, na linha de Ciências Exatas e Naturais (UERN).
 * Pesquisador e desenvolvedor de aplicativos móveis.  
 
 
-#### Skills
+#### Hard Skills :zap:
 * Dart/Flutter.
 * Controle e versionamento GIT.
 * Gerência de estado (Provider, Bloc/Rx, setState).
 * Firebase.
 * Consumo/integração de APIs.
+
+##### Linguagens, frameworks, tecnologias e ferramentas
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="20" height="20"> <img/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20"> <img/>
+
 #### Experiências profissionais
 
 **Pesquisador bolsista CAPES | Universidade do Estado do Rio Grande do Norte, 2020 - 2021.**
@@ -67,7 +80,7 @@ para auxílio do ensino de Física em uma determinada escola. O
 aplicativo foi desenvolvido com sucesso e publicado na Google Play
 Store. O framework utilizado foi o Flutter e, através dessa
 experiência, decidi continuar meus estudos em desenvolvimento
-mobile.* [*Acessar Aplicativo.*](https://github.com/aquinoartur/prisma_study)
+mobile.* [*Acessar aplicativo.*](https://github.com/aquinoartur/prisma_study)
 
 ***
 
