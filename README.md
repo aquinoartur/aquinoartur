@@ -4,7 +4,7 @@
  <p/>
  
  ## Flutter Mobile Developer
- ![GitHub last commit](https://img.shields.io/github/last-commit/aquinoartur/aquinoartur)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/aquinoartur/fisio_app)
  ![GitHub language count](https://img.shields.io/github/languages/count/aquinoartur/prisma_study)
  ![GitHub top language](https://img.shields.io/github/languages/top/aquinoartur/prisma_study)
  
