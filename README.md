@@ -48,12 +48,14 @@ ao meu redor.
 * Pesquisador e desenvolvedor de aplicativos móveis.  
 
 
-#### Hard Skills :zap:
-* Dart/Flutter.
-* Controle e versionamento GIT.
-* Gerência de estado (Provider, Bloc/Rx, setState).
+#### Flutter Hard Skills :zap:
+* Gerência de estado (Mobx, Bloc/Rx).
 * Firebase.
-* Consumo/integração de APIs.
+* Consumo de APIs.
+* Clean Dart.
+* Flutter Modular.
+* Testes de unidade.
+* Construção de telas.
 
 ##### Linguagens, frameworks, tecnologias e ferramentas
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20" height="20"> <img/>
@@ -70,22 +72,16 @@ ao meu redor.
 #### Experiências profissionais
 
 **Pesquisador bolsista CAPES | Universidade do Estado do Rio Grande do Norte, 2020 - 2021.**
-
-*Desenvolvi atividades de pesquisa durante um ano, produzindo
-artigos científicos direcionados ao uso e desenvolvimento de
-tecnologias educativas. Nesse sentido, o fomento a minha pesquisa
-foi utilizado para que eu pudesse desenvolver um aplicativo móvel
-para auxílio do ensino de Física em uma determinada escola. O
-aplicativo foi desenvolvido com sucesso e publicado na Google Play
-Store. O framework utilizado foi o Flutter e, através dessa
-experiência, decidi continuar meus estudos em desenvolvimento
-mobile.* [*Acessar aplicativo.*](https://github.com/aquinoartur/prisma_study)
+**Flutter Developer | Fteam - Especialista em Aplicativos, Abr. 2021 - atual.**
 
 ***
 
-#### Atualmente estou estudando:
+#### Estudos atuais:
 
-- [x] Clean Architecture.
-- [x] Testes Unitários.
-- [x] Mobx.
+- [x] Triple Pattern.
+- [x] SOLID.
+- [x] Clean Code.
+- [x] Tratamento de erros.
+- [ ] Animações.
+
 
