@@ -1,11 +1,4 @@
-
- <p align="center">
- <img  width="425" height="220" src="https://media.giphy.com/media/HTZVeK0esRjyw/giphy.gif">
- <p/>
- 
- ## Flutter Mobile Developer
- ![GitHub language count](https://img.shields.io/github/languages/count/aquinoartur/prisma_study)
- ![GitHub top language](https://img.shields.io/github/languages/top/aquinoartur/prisma_study)
+## Flutter Mobile Developer
  
  ### Contatos
 
@@ -17,11 +10,7 @@
 
 Olá, meu nome é Artur, tenho
 23 anos e sou desenvolvedor
-de aplicativos móveis. Ainda
-estou me descobrindo
-enquanto desenvolvedor e é
-por isso que atualmente venho
-dedicando o meu tempo e
+de aplicativos móveis. Atualmente dedico o meu tempo e
 energia aos estudos de
 Dart/Flutter.
 Gosto de aprender sobre
@@ -32,7 +21,7 @@ esteja atuando. É através
 desse sentimento que venho
 trilhando os meus desafios e
 adquirindo conhecimento
-profissional e humanístico.
+profissional e pessoal.
 Acredito ter herdado esse perfil
 por gostar de pesquisa,
 sobretudo quando esta
@@ -71,8 +60,9 @@ ao meu redor.
 
 #### Experiências profissionais
 
-**Pesquisador bolsista CAPES | Universidade do Estado do Rio Grande do Norte, 2020 - 2021.**
-**Flutter Developer | Fteam - Especialista em Aplicativos, Abr. 2021 - atual.**
+*Pesquisador bolsista CAPES | Universidade do Estado do Rio Grande do Norte, 2020 - 2021.*
+
+*Flutter Developer | Fteam - Especialista em Aplicativos, Abr. 2021 - atual.*
 
 ***
 
