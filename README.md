@@ -8,25 +8,10 @@
 
 ### Sobre mim
 
-Olá, meu nome é Artur, tenho
-23 anos e sou desenvolvedor
-de aplicativos móveis. Atualmente dedico o meu tempo e
-energia aos estudos de
-Dart/Flutter.
-Gosto de aprender sobre
-muitas coisas e do conceito de
-interdisciplinaridade,
-independente da área que eu
-esteja atuando. É através
-desse sentimento que venho
-trilhando os meus desafios e
-adquirindo conhecimento
-profissional e pessoal.
-Acredito ter herdado esse perfil
-por gostar de pesquisa,
-sobretudo quando esta
-soluciona problemas que estão
-ao meu redor.
+Olá, me chamo Artur e há 1 ano atuo profissionalmente como Flutter Developer. Conheci o Flutter através da pesquisa científica (na qual sou muito entusiasta) e a partir de então venho construindo o meu conhecimento e networking no âmbito do desenvolvimento mobile.
+
+Sou bacharel em Ciência e Tecnologia, estou cursando Engenharia de Computação, com ênfase em automação industrial e possuo mestrado acadêmico em Ensino de Ciências Exatas e Naturais.
+
 
 ***
 
@@ -38,13 +23,13 @@ ao meu redor.
 
 
 #### Flutter Hard Skills :zap:
-* Gerência de estado (Mobx, Bloc/Rx).
+* Gerência de estado (Mobx, Bloc, Triple Pattern).
 * Firebase.
 * Consumo de APIs.
-* Clean Dart.
+* Clean Dart / Clean Architecture.
 * Flutter Modular.
-* Testes de unidade.
-* Construção de telas.
+* Testes unitários.
+* Construção de Layouts / Design System.
 
 ##### Linguagens, frameworks, tecnologias e ferramentas
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="20" height="20"> <img/>
@@ -68,10 +53,11 @@ ao meu redor.
 
 #### Estudos atuais:
 
-- [x] Triple Pattern.
 - [x] SOLID.
 - [x] Clean Code.
 - [x] Tratamento de erros.
-- [ ] Animações.
+- [x] Animações.
+- [x] Responsividade.
+- [ ] Hasura.
 
 
