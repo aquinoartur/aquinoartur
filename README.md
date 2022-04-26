@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-Olá, me chamo Artur e há 1 ano atuo profissionalmente como Flutter Developer. Conheci o Flutter através da pesquisa científica (na qual sou muito entusiasta) e a partir de então venho construindo o meu conhecimento e networking no âmbito do desenvolvimento mobile.
+Olá, me chamo Artur e há 1,5 anos atuo profissionalmente como Flutter Developer. Conheci o Flutter através da pesquisa científica (na qual sou muito entusiasta) e a partir de então venho construindo o meu conhecimento e networking no âmbito do desenvolvimento mobile.
 
 Sou bacharel em Ciência e Tecnologia, estou cursando Engenharia de Computação, com ênfase em automação industrial e possuo mestrado acadêmico em Ensino de Ciências Exatas e Naturais.
 
