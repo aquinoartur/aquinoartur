@@ -54,13 +54,5 @@ Olá, me chamo Artur e há 2 anos atuo profissionalmente como Flutter Developer.
 
 ***
 
-#### Estudos atuais:
-
-- [x] SOLID.
-- [x] Clean Code.
-- [x] Tratamento de erros.
-- [x] Animações.
-- [x] Responsividade.
-- [ ] Hasura.
 
 
