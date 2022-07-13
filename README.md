@@ -50,9 +50,11 @@ Olá, me chamo Artur e há 2 anos atuo profissionalmente como Flutter Developer.
 
 #### Experiências profissionais
 
-*Pesquisador bolsista CAPES | Universidade do Estado do Rio Grande do Norte, 2020 - 2021.*
+*Flutter Developer | CWI Software, Jul. 2022 - atual.*
 
-*Flutter Developer | Fteam - Especialista em Aplicativos, Abr. 2021 - atual.*
+*Flutter Developer | Fteam - Especialista em Aplicativos, Abr. 2021 - Jul. 2022*
+
+*Pesquisador bolsista CAPES | Universidade do Estado do Rio Grande do Norte, 2020 - 2021.*
 
 ***
 
