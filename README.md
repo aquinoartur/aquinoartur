@@ -26,6 +26,8 @@ Olá, me chamo Artur e há 2 anos atuo profissionalmente como Flutter Developer.
 - Teste de integração
 - Bloc, Triple, Mobx e ValueNotifier/ChangeNotifier
 - Flutter Modular
+- Get It (DI)
+- Freezed
 - Firebase
 - Componentização e responsividade
 - Animações implícitas e controladas
