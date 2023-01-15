@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-Olá, me chamo Artur e há 2 anos atuo profissionalmente como Flutter Developer. Conheci o Flutter através da pesquisa científica (na qual sou muito entusiasta) e a partir de então venho construindo o meu conhecimento e networking no âmbito do desenvolvimento mobile.
+Olá, me chamo Artur e há 3 anos atuo profissionalmente como Flutter Developer. Conheci o Flutter através da pesquisa científica (na qual sou muito entusiasta) e a partir de então venho construindo o meu conhecimento e networking no âmbito do desenvolvimento mobile.
 
 
 ***
@@ -17,13 +17,11 @@ Olá, me chamo Artur e há 2 anos atuo profissionalmente como Flutter Developer.
 * Bacharel em Ciência e Tecnologia (UFERSA).
 * Graduando Engenharia de Computação (UFERSA), com ênfase em Automação Industrial.
 * Mestre em Ensino, na linha de Ciências Exatas e Naturais (UERN).
-* Pesquisador e desenvolvedor de aplicativos móveis.  
 
 
 #### Flutter Hard Skills :zap:
 - Clean Architecture
 - Testes de unidade e widget
-- Teste de integração
 - Bloc, Triple, Mobx e ValueNotifier/ChangeNotifier
 - Flutter Modular
 - Get It (DI)
@@ -31,10 +29,10 @@ Olá, me chamo Artur e há 2 anos atuo profissionalmente como Flutter Developer.
 - Firebase
 - Componentização e responsividade
 - Animações implícitas e controladas
-- Hasura
 - SQL
 - Git, GitHub
 - Consumo de APIs GraphQL e REST
+- Flutter Perfomance
 - Documentação de arquitetura e padrões de projetos
 
 ##### Linguagens, frameworks, tecnologias e ferramentas
